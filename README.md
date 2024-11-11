@@ -1,8 +1,6 @@
 # 💫 About Me:
 A Passionate Associate Engineer
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadumermemon" alt="muhammadumermemon" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aesthetic_omer" target="blank"><img src="https://img.shields.io/twitter/follow/aesthetic_omer?logo=twitter&style=for-the-badge" alt="aesthetic_omer" /></a> </p>
 
 - 🔭 I’m currently working as a IT Technician at [One Network Private Limited](https://onenetwork.pk/)
 
@@ -10,7 +8,7 @@ A Passionate Associate Engineer
 
 - 👨‍💻 All of my repositories are available [Here](https://github.com/muhammadumermemon?tab=repositories)
 
-- 📄 MY Resume at : [MUHAMMAD UMER FAROOQ](https://www.canva.com/design/DAGWGobcvDU/1UA3CKp36ikEvsUs-oV_1Q/view?utm_content=DAGWGobcvDU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 MY Resume at : [MUHAMMAD UMER FAROOQ]([https://www.canva.com/design/DAGWGobcvDU/1UA3CKp36ikEvsUs-oV_1Q/view?utm_content=DAGWGobcvDU&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://drive.google.com/file/d/1WfZO4fj0k3oy4zV_ililo3SSQRkNJgdz/view?usp=sharing))
 
 - 💬 Ask me about **IT**
 
