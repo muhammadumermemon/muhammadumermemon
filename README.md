@@ -8,7 +8,7 @@ A Passionate Associate Engineer
 
 - 👨‍💻 All of my repositories are available [Here](https://github.com/muhammadumermemon?tab=repositories)
 
-- 📄 MY Resume at : [MUHAMMAD UMER FAROOQ]([https://www.canva.com/design/DAGWGobcvDU/1UA3CKp36ikEvsUs-oV_1Q/view?utm_content=DAGWGobcvDU&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://drive.google.com/file/d/1WfZO4fj0k3oy4zV_ililo3SSQRkNJgdz/view?usp=sharing))
+- 📄 MY Resume at : [MUHAMMAD UMER FAROOQ](https://drive.google.com/file/d/1WfZO4fj0k3oy4zV_ililo3SSQRkNJgdz/view?usp=sharing))
 
 - 💬 Ask me about **IT**
 
