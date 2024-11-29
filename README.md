@@ -2,7 +2,7 @@
 A Passionate Associate Engineer
 
 
-- 🔭 I’m currently working as a IT Technician at [One Network Private Limited](https://onenetwork.pk/)
+- 🔭 I’m currently working as a ITT-1 at [PAKISTAN NAVY](https://www.paknavy.gov.pk/)
 
 - 🌱 I’m currently learning **ML, Python, Flutter**
 
