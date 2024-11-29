@@ -12,7 +12,8 @@ A Passionate Associate Engineer
 
 - 💬 Ask me about **IT**
 
-- 📫 How to reach me **mumermemon312@gmail.com**
+- 📫 Reach me via [EMAIL](mumermemon312@gmail.com)
+
 
 - ⚡ Fun fact **I am Reliable ^_^**
 
